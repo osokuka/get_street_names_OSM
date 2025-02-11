@@ -1,0 +1,6 @@
+/cache
+*.xlsx
+*.xls
+*.csv
+/env
+/.env
